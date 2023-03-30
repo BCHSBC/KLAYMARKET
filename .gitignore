@@ -1,0 +1,15 @@
+klay_marketplace/android
+klay_marketplace/build
+klay_marketplace/ios
+klay_marketplace/linux
+klay_marketplace/macos
+klay_marketplace/web
+klay_marketplace/windows
+analysis_options.yaml
+klay_marketplace.iml
+package-lock.json
+pubsepc.lock
+klay_marketplace/.dart_tool
+klay_marketplace/.idea
+klay_marketplace/.vscode
+klay_marketplace/.metadata
