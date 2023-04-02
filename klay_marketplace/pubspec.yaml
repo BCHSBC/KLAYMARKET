@@ -42,7 +42,9 @@ dependencies:
   flutter_web3: ^2.1.9
   provider: ^6.0.5
   metamask: ^0.0.2
-
+  dio: ^5.1.1
+  image_picker_web: ^3.0.0+1
+  dotted_border: ^2.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -91,6 +93,9 @@ flutter:
     - family: THR
       fonts:
         - asset: assets/font/PadyakkeExpandedOne-Regular.ttf
+    - family: FOUR
+      fonts:
+        - asset: assets/font/AlfaSlabOne-Regular.ttf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:

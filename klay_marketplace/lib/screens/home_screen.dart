@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:klaymarket/screens/main_screen.dart';
 import 'package:klaymarket/widgets/image_list_view.dart';
 import 'package:klaymarket/tools/metamask_provider.dart';
-import 'package:metamask/metamask.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {
