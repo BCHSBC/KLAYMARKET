@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:klaymarket/pages/mint_page.dart';
 import 'package:klaymarket/pages/mynft_page.dart';
 import 'package:klaymarket/pages/purchase_page.dart';
-
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
 
@@ -12,7 +11,6 @@ class MainScreen extends StatefulWidget {
 
 class _MainScreenState extends State<MainScreen> {
   int _selectedIndex = 0;
-
   void _onItemTapped(int idx) {
     setState(() {
       _selectedIndex = idx;
